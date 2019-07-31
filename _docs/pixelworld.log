@@ -1,0 +1,561 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.5.4)  20 JUN 2019 13:50
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**pixelworld.tex
+(./pixelworld.tex
+LaTeX2e <2018-12-01>
+(c:/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(c:/texlive/2019/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(c:/texlive/2019/texmf-dist/tex/latex/cjk-ko/kotex.sty
+Package: kotex 2015/04/19 v1.6 Korean TeX (ko.TeX)
+
+(c:/texlive/2019/texmf-dist/tex/latex/kotex-utf/kotex.cfg)
+(c:/texlive/2019/texmf-dist/tex/latex/kotex-utf/kotexutf.sty
+Package: kotexutf 2015/07/18 v2.1.1 typesetting UTF-8 Korean documents
+
+(c:/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(c:/texlive/2019/texmf-dist/tex/plain/kotex-plain/kotexutf-core.tex
+\unih@ngulpoint=\count88
+\dhucs@emph@raise=\dimen103
+)
+Now handling font encoding LUC ...
+... processing UTF-8 mapping file for font encoding LUC
+
+(c:/texlive/2019/texmf-dist/tex/latex/kotex-utf/lucenc.dfu
+File: lucenc.dfu 2007/09/05 UTF-8 support for dhucs
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+3001 (decimal 12289)
+   defining Unicode char U+3002 (decimal 12290)
+   defining Unicode char U+3008 (decimal 12296)
+   defining Unicode char U+3009 (decimal 12297)
+   defining Unicode char U+300A (decimal 12298)
+   defining Unicode char U+300B (decimal 12299)
+   defining Unicode char U+300C (decimal 12300)
+   defining Unicode char U+300D (decimal 12301)
+   defining Unicode char U+300E (decimal 12302)
+   defining Unicode char U+300F (decimal 12303)
+   defining Unicode char U+3010 (decimal 12304)
+   defining Unicode char U+3011 (decimal 12305)
+   defining Unicode char U+3014 (decimal 12308)
+   defining Unicode char U+3015 (decimal 12309)
+   defining Unicode char U+3016 (decimal 12310)
+   defining Unicode char U+3017 (decimal 12311)
+   defining Unicode char U+3018 (decimal 12312)
+   defining Unicode char U+3019 (decimal 12313)
+   defining Unicode char U+301A (decimal 12314)
+   defining Unicode char U+301B (decimal 12315)
+   defining Unicode char U+FF01 (decimal 65281)
+   defining Unicode char U+FF08 (decimal 65288)
+   defining Unicode char U+FF09 (decimal 65289)
+   defining Unicode char U+FF0C (decimal 65292)
+   defining Unicode char U+FF0E (decimal 65294)
+   defining Unicode char U+FF1A (decimal 65306)
+   defining Unicode char U+FF1B (decimal 65307)
+   defining Unicode char U+FF1C (decimal 65308)
+   defining Unicode char U+FF1D (decimal 65309)
+   defining Unicode char U+FF1E (decimal 65310)
+   defining Unicode char U+FF1F (decimal 65311)
+   defining Unicode char U+FF3B (decimal 65339)
+   defining Unicode char U+FF3D (decimal 65341)
+   defining Unicode char U+FF5B (decimal 65371)
+   defining Unicode char U+FF5D (decimal 65373)
+   defining Unicode char U+FF61 (decimal 65377)
+   defining Unicode char U+FF62 (decimal 65378)
+   defining Unicode char U+FF63 (decimal 65379)
+   defining Unicode char U+FF64 (decimal 65380)
+   defining Unicode char U+FF65 (decimal 65381)
+)
+\@josa=\count89
+\josatoks=\toks16
+
+(c:/texlive/2019/texmf-dist/tex/latex/cjk-ko/kolabels-utf.sty
+Package: kolabels-utf 2015/03/20 v1.5 UTF-8 Hangul item labels
+)))
+(c:/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(c:/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count90
+\Gm@cntv=\count91
+\c@Gm@tempcnt=\count92
+\Gm@bindingoffset=\dimen104
+\Gm@wd@mp=\dimen105
+\Gm@odd@mp=\dimen106
+\Gm@even@mp=\dimen107
+\Gm@layoutwidth=\dimen108
+\Gm@layoutheight=\dimen109
+\Gm@layouthoffset=\dimen110
+\Gm@layoutvoffset=\dimen111
+\Gm@dimlist=\toks18
+)
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(c:/texlive/2019/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+
+(c:/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count93
+\c@ALG@rem=\count94
+\c@ALG@nested=\count95
+\ALG@tlm=\skip43
+\ALG@thistlm=\skip44
+\c@ALG@Lnr=\count96
+\c@ALG@blocknr=\count97
+\c@ALG@storecount=\count98
+\c@ALG@tmpcounter=\count99
+\ALG@tmplength=\skip45
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen114
+))
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen115
+)
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count100
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count101
+\leftroot@=\count102
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count103
+\DOTSCASE@=\count104
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen116
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count105
+\c@MaxMatrixCols=\count106
+\dotsspace@=\muskip10
+\c@parentequation=\count107
+\dspbrk@lvl=\count108
+\tag@help=\toks20
+\row@=\count109
+\column@=\count110
+\maxfields@=\count111
+\andhelp@=\toks21
+\eqnshift@=\dimen117
+\alignsep@=\dimen118
+\tagshift@=\dimen119
+\tagwidth@=\dimen120
+\totwidth@=\dimen121
+\lineht@=\dimen122
+\@envbody=\toks22
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+(c:/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(c:/texlive/2019/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks24
+) (./pixelworld.aux)
+\openout1 = `pixelworld.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 24.
+LaTeX Font Info:    Try loading font information for LUC+nanummj on input line 
+24.
+
+(c:/texlive/2019/texmf-dist/tex/latex/nanumtype1/lucnanummj.fd
+File: lucnanummj.fd 2013/02/12 v0.1 Nanum Myeongjo font definitions
+)
+LaTeX Font Info:    ... okay on input line 24.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 426.79134pt, 85.35828pt)
+* v-part:(T,H,B)=(85.35826pt, 674.3303pt, 85.35828pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79134pt
+* \textheight=674.3303pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(c:/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count112
+\scratchdimen=\dimen123
+\scratchbox=\box29
+\nofMPsegments=\count113
+\nofMParguments=\count114
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count115
+\MPscratchDim=\dimen124
+\MPnumerator=\count116
+\makeMPintoPDFobject=\count117
+\everyMPtoPDFconversion=\toks26
+) (c:/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(c:/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(c:/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 38.
+
+(c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 38.
+ [1
+
+{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for LUC+uhcmj on input line 74
+.
+
+(c:/texlive/2019/texmf-dist/tex/latex/kotex-utf/lucuhcmj.fd
+File: lucuhcmj.fd 2013/09/26 UHC Myeongjo font definitions
+) [2]
+LaTeX Font Info:    Try loading font information for U+msa on input line 106.
+
+(c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 106.
+
+(c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<./designs/minion_body_sample.png, id=71, 363.3575pt x 323.2075pt>
+File: ./designs/minion_body_sample.png Graphic file (type png)
+<use ./designs/minion_body_sample.png>
+Package pdftex.def Info: ./designs/minion_body_sample.png  used on input line 1
+30.
+(pdftex.def)             Requested size: 290.68639pt x 258.56635pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Missing character: There is no ^^@ in font uwmj30!
+[3]
+Missing character: There is no ^^@ in font uwmj30!
+ [4 <./designs/minion_body_sample.png (PNG copy)>] [5] [6] [7] [8]
+Overfull \hbox (34.90555pt too wide) in paragraph at lines 320--322
+\LUC/nanummj/m/n/12/d6 ƒ\LUC/nanummj/m/n/12/ac ^^A \LUC/nanummj/m/n/12/c7 x\LUC
+/nanummj/m/n/12/d4 ã\LUC/nanummj/m/n/12/c7 @ $\OML/cmm/m/it/12 self:smell \OT1/
+cmr/m/n/12 = \OML/cmm/m/it/12 concat\OT1/cmr/m/n/12 ([][] []\OML/cmm/m/it/12 ; 
+[][] []\OT1/cmr/m/n/12 )$
+ []
+
+<./designs/minion_nn.png, id=109, 609.27625pt x 812.03375pt>
+File: ./designs/minion_nn.png Graphic file (type png)
+<use ./designs/minion_nn.png>
+Package pdftex.def Info: ./designs/minion_nn.png  used on input line 331.
+(pdftex.def)             Requested size: 365.56856pt x 487.22401pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9]
+Missing character: There is no ^^@ in font uwmj30!
+Missing character: There is no ^^@ in font uwmj30!
+ [10]
+<./designs/move1.png, id=122, 289.08pt x 254.9525pt>
+File: ./designs/move1.png Graphic file (type png)
+<use ./designs/move1.png>
+Package pdftex.def Info: ./designs/move1.png  used on input line 402.
+(pdftex.def)             Requested size: 260.16959pt x 229.45511pt.
+<./designs/move2.png, id=123, 358.33875pt x 262.9825pt>
+File: ./designs/move2.png Graphic file (type png)
+<use ./designs/move2.png>
+Package pdftex.def Info: ./designs/move2.png  used on input line 408.
+(pdftex.def)             Requested size: 250.83542pt x 184.08649pt.
+<./designs/move3.png, id=124, 387.4475pt x 292.09125pt>
+File: ./designs/move3.png Graphic file (type png)
+<use ./designs/move3.png>
+Package pdftex.def Info: ./designs/move3.png  used on input line 414.
+(pdftex.def)             Requested size: 271.2114pt x 204.46246pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[11]
+Overfull \hbox (1.7792pt too wide) in paragraph at lines 456--457
+\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ns; o\OT1/cmr/m/n/12 )[])$(\LUC/nanummj/m/n/1
+2/c5 \LUC/nanummj/m/n/12/c1 ç \LUC/nanummj/m/n/12/bd Ñ\LUC/nanummj/m/n/12/d3 Ï
+\LUC/nanummj/m/n/12/c5 – \LUC/nanummj/m/n/12/b3 ^^@\LUC/nanummj/m/n/12/d5 t\LUC
+/nanummj/m/n/12/c1 ^^\\LUC/nanummj/m/n/12/b2 î \LUC/nanummj/m/n/12/d6 U\LUC/nan
+ummj/m/n/12/b9 `\LUC/nanummj/m/n/12/bc ^^@\LUC/nanummj/m/n/12/b3 ƒ\LUC/nanummj/
+m/n/12/d5 h\LUC/nanummj/m/n/12/c2 ^^X\LUC/nanummj/m/n/12/b9 | \LUC/nanummj/m/n/
+12/c7 t\LUC/nanummj/m/n/12/c6 ©\LUC/nanummj/m/n/12/d5 \\LUC/nanummj/m/n/12/b2 ‰
+\OT1/cmr/m/n/12 .) 
+ []
+
+[12]
+Overfull \hbox (8.63133pt too wide) in paragraph at lines 473--475
+[]$\OML/cmm/m/it/12 A$\LUC/nanummj/m/n/12/c7 X \LUC/nanummj/m/n/12/cd ú\LUC/nan
+ummj/m/n/12/c0 ∞\LUC/nanummj/m/n/12/c6 ^^H\LUC/nanummj/m/n/12/c8 ^^U\LUC/nanumm
+j/m/n/12/c7 ê\LUC/nanummj/m/n/12/c2 ›^^X\LUC/nanummj/m/n/12/b9 | \OT1/cmr/m/n/1
+2 1 \LUC/nanummj/m/n/12/ac ^^P\LUC/nanummj/m/n/12/c1 å\LUC/nanummj/m/n/12/c2 ‹\
+LUC/nanummj/m/n/12/d0 §\LUC/nanummj/m/n/12/ac ‡\OT1/cmr/m/n/12 , \LUC/nanummj/m
+/n/12/cc ¥\LUC/nanummj/m/n/12/b8 %\LUC/nanummj/m/n/12/c7 D $\OT1/cmr/m/n/12 (\O
+ML/cmm/m/it/12 B[][]\OT1/cmr/m/n/12 ) + ([])$
+ []
+
+[13] [14 <./designs/minion_nn.png (PNG copy)>] [15 <./designs/move1.png (PNG co
+py)> <./designs/move2.png (PNG copy)>] [16 <./designs/move3.png (PNG copy)>]
+(./pixelworld.aux) ) 
+Here is how much of TeX's memory you used:
+ 3900 strings out of 492618
+ 55629 string characters out of 6133239
+ 135309 words of memory out of 5000000
+ 7648 multiletter control sequences out of 15000+600000
+ 66427 words of font info for 227 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,7n,28p,553b,370s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pf
+b><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/tex
+live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2019/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2019/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2019/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/s
+ymbols/msbm10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nan
+ummjbac.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjba
+d.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbae.pfb>
+<c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb0.pfb><c:/te
+xlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb1.pfb><c:/texlive/
+2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb2.pfb><c:/texlive/2019/t
+exmf-dist/fonts/type1/public/nanumtype1/nanummjbb3.pfb><c:/texlive/2019/texmf-d
+ist/fonts/type1/public/nanumtype1/nanummjbb4.pfb><c:/texlive/2019/texmf-dist/fo
+nts/type1/public/nanumtype1/nanummjbb7.pfb><c:/texlive/2019/texmf-dist/fonts/ty
+pe1/public/nanumtype1/nanummjbb8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/pu
+blic/nanumtype1/nanummjbb9.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/n
+anumtype1/nanummjbba.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumty
+pe1/nanummjbbb.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/na
+nummjbbc.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjb
+bd.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbe.pfb
+><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc0.pfb><c:/t
+exlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc1.pfb><c:/texlive
+/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc2.pfb><c:/texlive/2019/
+texmf-dist/fonts/type1/public/nanumtype1/nanummjbc4.pfb><c:/texlive/2019/texmf-
+dist/fonts/type1/public/nanumtype1/nanummjbc5.pfb><c:/texlive/2019/texmf-dist/f
+onts/type1/public/nanumtype1/nanummjbc6.pfb><c:/texlive/2019/texmf-dist/fonts/t
+ype1/public/nanumtype1/nanummjbc7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/p
+ublic/nanumtype1/nanummjbc8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/
+nanumtype1/nanummjbc9.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumt
+ype1/nanummjbcc.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/n
+anummjbcd.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummj
+bce.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd0.pf
+b><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd1.pfb><c:/
+texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd2.pfb><c:/texliv
+e/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd3.pfb><c:/texlive/2019
+/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd4.pfb><c:/texlive/2019/texmf
+-dist/fonts/type1/public/nanumtype1/nanummjbd5.pfb><c:/texlive/2019/texmf-dist/
+fonts/type1/public/nanumtype1/nanummjbd6.pfb><c:/texlive/2019/texmf-dist/fonts/
+type1/public/nanumtype1/nanummjmac.pfb><c:/texlive/2019/texmf-dist/fonts/type1/
+public/nanumtype1/nanummjmad.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public
+/nanumtype1/nanummjmae.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanum
+type1/nanummjmaf.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/
+nanummjmb0.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanumm
+jmb1.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb2.p
+fb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb3.pfb><c:
+/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb4.pfb><c:/texli
+ve/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb5.pfb><c:/texlive/201
+9/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb6.pfb><c:/texlive/2019/texm
+f-dist/fonts/type1/public/nanumtype1/nanummjmb7.pfb><c:/texlive/2019/texmf-dist
+/fonts/type1/public/nanumtype1/nanummjmb8.pfb><c:/texlive/2019/texmf-dist/fonts
+/type1/public/nanumtype1/nanummjmb9.pfb><c:/texlive/2019/texmf-dist/fonts/type1
+/public/nanumtype1/nanummjmba.pfb><c:/texlive/2019/texmf-dist/fonts/type1/publi
+c/nanumtype1/nanummjmbb.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanu
+mtype1/nanummjmbc.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1
+/nanummjmbd.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanum
+mjmbe.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc0.
+pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc1.pfb><c
+:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc2.pfb><c:/texl
+ive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc3.pfb><c:/texlive/20
+19/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc4.pfb><c:/texlive/2019/tex
+mf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pfb><c:/texlive/2019/texmf-dis
+t/fonts/type1/public/nanumtype1/nanummjmc6.pfb><c:/texlive/2019/texmf-dist/font
+s/type1/public/nanumtype1/nanummjmc7.pfb><c:/texlive/2019/texmf-dist/fonts/type
+1/public/nanumtype1/nanummjmc8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/publ
+ic/nanumtype1/nanummjmc9.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nan
+umtype1/nanummjmca.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype
+1/nanummjmcc.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanu
+mmjmcd.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmce
+.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcf.pfb><
+c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd0.pfb><c:/tex
+live/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd1.pfb><c:/texlive/2
+019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd2.pfb><c:/texlive/2019/te
+xmf-dist/fonts/type1/public/nanumtype1/nanummjmd3.pfb><c:/texlive/2019/texmf-di
+st/fonts/type1/public/nanumtype1/nanummjmd4.pfb><c:/texlive/2019/texmf-dist/fon
+ts/type1/public/nanumtype1/nanummjmd5.pfb><c:/texlive/2019/texmf-dist/fonts/typ
+e1/public/nanumtype1/nanummjmd6.pfb><c:/texlive/2019/texmf-dist/fonts/type1/pub
+lic/nanumtype1/nanummjmd7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/uhc/umj/u
+mj00.pfb>
+Output written on pixelworld.pdf (16 pages, 4215821 bytes).
+PDF statistics:
+ 411 PDF objects out of 1000 (max. 8388607)
+ 298 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+
